@@ -68,7 +68,7 @@ You need to have [python](https://www.python.org/) installed to run the game. Th
 ### Installation
 
 1. Download the repository
-2. Open the game file
+2. Open the 2D Platformer file
 3. Run main.py
 4. Enjoy
 
