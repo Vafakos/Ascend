@@ -12,7 +12,7 @@
   <p align="center">
     A 2D python game
     <br />
-    <a href="">View Demo</a>
+    <a href="https://www.youtube.com/watch?v=nfnh_qs5Q5g&t=2s">View Demo</a>
     ·
     <a href="https://github.com/Vafakos/Ascend/issues">Report Bug</a>
     ·
